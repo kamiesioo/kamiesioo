@@ -1,4 +1,4 @@
-<h1 align="center">Hola , soy kamiesio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm kamiesio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+de+Sistemas;Ingeniero+Social;Pentester+Rookie;Junior+en+Python"></a>
 </p>
@@ -15,12 +15,12 @@
 
 <br><br>
 
-- :school: Soy un `Analista Junior` en el [Instituto Superior Leibnitz](https://leibnitz-cba.infd.edu.ar/sitio/).
-- :technologist: Amo usar la tecnoligía y poder resolver cualquier `Problema.`
-- :student: Actualmente estoy en mi segundo año de `Analista de Sistemas.`
+- :school: I'm a `Junior Analyst` at the [Instituto Superior Leibnitz](https://leibnitz-cba.infd.edu.ar/sitio/).
+- :technologist: I love using technology and being able to solve any  `Problem.`
+- :student: I am currently in my second year of `Systems Analyst.`
 
 
-## 🛠️ Mis Habilidades
+## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
